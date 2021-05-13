@@ -9,7 +9,7 @@ CFonts.say('BABYBOT WHATSAPP', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`Welcome Ramlan ID`, {
+CFonts.say(`Welcome Draxo Store`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
